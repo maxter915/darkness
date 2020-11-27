@@ -14,7 +14,7 @@ def main():
       ██████╔╝██║  ██║██║  ██║██║  ██╗██║ ╚████║███████╗███████║███████║
       ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚══════╝  \033[1;m
           \033[91m| [!]  | Only Kali Linux Tools For Arch Linux (BlackArch) |\033[1;m
-                        \033[91m[ Author: Zatiel And Zayotic ]\033[1;m
+                        \033[91m[ Author:Maxter915]\033[1;m
                                \033[91m[ 333 Tools ] \033[1;m
 							   
 \033[1;91m[W] Before updating your system , please remove all blackarch repositories to avoid any kind of problem .\033[1;m
