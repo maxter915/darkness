@@ -1,10 +1,6 @@
 # Darkness
 Automatically install BlackArch Linux tools
 
-![Linux-2019-12-03-19-57-47.png](https://i.postimg.cc/X730rWxh/Linux-2019-12-03-19-57-47.png)
-
-![Linux-2019-12-03-20-28-16.png](https://i.postimg.cc/nhq1W8q4/Linux-2019-12-03-20-28-16.png)
-
 # Features
 - Add BlackArch repositories
 - Remove BlackArch repositories
@@ -17,7 +13,7 @@ Automatically install BlackArch Linux tools
 # Installation
 ```
 - sudo su
-- git clone https://github.com/callmezatiel/darkness && cp darkarch/darkness.py /usr/bin/darkness
+- git clone https://github.com/maxter915/darkness && cp darkarch/darkness.py /usr/bin/darkness
 - chmod +x /usr/bin/darkness
 - sudo darkness
 
@@ -36,10 +32,5 @@ Automatically install BlackArch Linux tools
 Before updating your system , please remove all BlackArch repositories to avoid any kind of problem .<br />
 Project does not have options for all BlackArch Tools visit https://www.blackarch.org/tools.html
 
-# Issues will be fixed asap. Pull Request Welcomed
 
-https://github.com/callmezatiel/darkness/issues
-
-## Buy me a coffee
-<a href="https://www.paypal.me/zatiel"><img src="https://img.shields.io/badge/don-paypal-blue"></a> <a href="https://www.patreon.com/zatiel"><img src="https://img.shields.io/badge/don-patreon-ff69b4"> 
 
